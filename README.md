@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**SungJuyeon/SungJuyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am Juyeon Soung, an undergraduate student majoring in Computer Engineering at Hansung University.
+<!--I enjoy building projects that connect research with practical applications.-->
+<br><br>
 
-Here are some ideas to get you started:
+## 🎓 Education
+-	Hansung University (Seoul, Korea)
+Bachelor of Engineering in Computer Engineering (Mar. 2022 – Present)
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Publications
+- [Paper 1] [*A Study on Utilizing GraphRAG for EPUB Readers*]
+- [Paper 2] [*EPUB Reader with Advanced Search and Reasoning Powered by GraphRAG*]([https://your-link-2.com](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003160624))  
+- [Paper 3] [*Implementation Details of EPUB Reader using GraphRAG*]([https://your-link-3.com](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003207610)) 
+<br><br>
+
+## 🏆 Awards
+- [2025.08.13] Grand Prize, 12th Hansung University Creative Convergence Competition (Implementation Division)
+- [2025.05.30] Excellence Award, Hansung University Capstone Design (Web Division)
+- [2025.02.07] Grand Prize, 11th Hansung University C&C Festival
+- [2024.11.27] Encouragement Prize, 2024 SW-centered University Union Festival (Big Data / AI Division)
+- [2024.09.25–26] Bronze Prize, 21st Hansung University Engineering Competition
+<br><br>
+
+## 🚀 Experience
+- 	Programming Camp Tutor — Hansung University Winter Programming Camp (Jan. 20–24, 2025)
+- 	Coding Lounge Tutor — Hansung University Computer Engineering Dept. (Sep.–Dec. 2025)
+<br><br>
+
+## ⚡ Skills & Interests
+- Languages & Tools: Python, Java, JavaScript, Flask, React
+<br><br>
+
+## 📫 Contact
+-	Email: tjdwndus1325@gmail.com
