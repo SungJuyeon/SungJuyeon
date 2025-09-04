@@ -10,7 +10,7 @@ Bachelor of Engineering in Computer Engineering (Mar. 2022 – Present)
 <br><br>
 
 ## 📝 Publications
-- [Paper 1] [*A Study on Utilizing GraphRAG for EPUB Readers*](1_EPUB 리더기의 GraphRAG 활용에 관한 연구.pdf)  
+- [Paper 1] [*A Study on Utilizing GraphRAG for EPUB Readers*](1_EPUB_READER_GraphRAG_SEARCH.pdf)  
 - [Paper 2] [*EPUB Reader with Advanced Search and Reasoning Powered by GraphRAG*](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003160624)  
 - [Paper 3] [*Implementation Details of EPUB Reader using GraphRAG*](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003207610)  
 <br><br>
