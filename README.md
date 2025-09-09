@@ -29,7 +29,7 @@ Bachelor of Engineering in Computer Engineering (Mar. 2022 – Present)
 <br><br>
 
 ## ⚡ Skills & Interests
-- Languages & Tools: Python, Java, JavaScript, Flask, React
+- Languages & Tools: Python, Java, JavaScript, React
 <br><br>
 
 ## 📫 Contact
