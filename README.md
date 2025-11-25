@@ -20,6 +20,7 @@ Bachelor of Engineering in Computer Engineering (Mar. 2022 – Feb. 2026)
 - [2025.12.05] Gold Prize, 2025 Open Source Developers Competition
 - [2025.11.21] Encouragement Award, Undergraduate Paper Competition, 2025 KICS Fall Conference
 - [2025.11.20] Excellence Award, Undergraduate Capstone Design Competition, 2025 KICS Fall Conference
+- [2025.09.25–26] Silver Prize, 22nd Hansung University Engineering Competition
 - [2025.08.13] Grand Prize, 12th Hansung University Creative Convergence Competition (Implementation Division)
 - [2025.05.30] Excellence Award, Hansung University Capstone Design (Web Division)
 - [2025.02.07] Grand Prize, 11th Hansung University C&C Festival
