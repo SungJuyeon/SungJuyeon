@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I am Juyeon Soung, an undergraduate student majoring in Computer Engineering at Hansung University.
+Hi! I am Juyeon Soung, an undergraduate student majoring in Computer Engineering.
 <!--I enjoy building projects that connect research with practical applications.-->
 <br><br>
 
