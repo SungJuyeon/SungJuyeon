@@ -4,11 +4,6 @@ Hi! I am Juyeon Soung, an undergraduate student majoring in Computer Engineering
 <!--I enjoy building projects that connect research with practical applications.-->
 <br><br>
 
-## 🎓 Education
--	Hansung University (Seoul, Korea)
-Bachelor of Engineering in Computer Engineering (Mar. 2022 – Feb. 2026)
-<br><br>
-
 ## 📝 Publications
 - [Paper 1] [*An Automated Solution for Domain-Specific Question Answering Systems Using Knowledge Graphs: QA Maker*](An%20Automated%20Solution%20for%20Domain-Specific%20Question%20Answering%20Systems%20Using%20Knowledge%20Graphs_QA%20Maker.pdf)
 - [Paper 2] [*Implementation Details of EPUB Reader using GraphRAG*](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003207610)
